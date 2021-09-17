@@ -1,0 +1,1 @@
+Olá! Este projeto é uma melhoria/adaptação dos conteúdos ensinados no curso "Primeiros passos com .NET" do Gabriel Faraday em parceria com a Digital Innovation One, o conteúdo em questão foi estudado durante o bootcamp da Avanade. Obrigado pela sua atenção!
